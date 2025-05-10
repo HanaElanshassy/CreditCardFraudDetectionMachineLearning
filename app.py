@@ -740,11 +740,11 @@ with tab1:
                     ])
                     pipeline.fit(X_train, y_train)
                     
-                    # Get predictions for both train and test
+                    
                     y_train_pred = pipeline.predict(X_train)
                     y_test_pred = pipeline.predict(X_test)
                     
-                    # Store results
+                    
                     st.session_state.results["Decision Tree"] = {
                         "y_test": y_test,
                         "y_pred": y_test_pred,
