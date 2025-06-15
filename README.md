@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Project Maintainer - [Hana Elanshassy](mailto:hana.elanshassy2@gmail.com)
+Project Maintainer - [Hana Elanshassy](mailto:hana.elanshassy2@gmail.com) and [ noureen Osama] 
 
 Project Link: [https://github.com/HanaElanshassy/CreditCardFraudDetectionMachineLearning](https://github.com/HanaElanshassy/CreditCardFraudDetectionMachineLearning)
 
